@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+
+}
+.allcard{
+    margin: 10px;
+}
